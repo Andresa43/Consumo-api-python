@@ -9,7 +9,3 @@ cotacoes = cotacoes.json()
 cotacao_dolar = cotacoes['USDBRL']['bid']
 # print(cotacoes)
 print(cotacao_dolar)
-
-
-
-print('teste')
