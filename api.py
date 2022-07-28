@@ -1,4 +1,5 @@
-# Consumindo a API de cotações de moedas
+# Consumindo de API de cotações de moedas
+from traceback import print_tb
 import requests
 import json 
 
@@ -11,3 +12,4 @@ print(cotacao_dolar)
 
 
 
+print('teste')
